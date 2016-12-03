@@ -1,0 +1,3 @@
+rootProject.name = 'numis'
+
+include ':app'
